@@ -1,0 +1,520 @@
+Video File: frame_1717432782.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 4.944567791999987
+
+Video File: frame_1717432881.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 3.2307024159999855
+
+Video File: frame_1717432905.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 4.654290666999998
+
+Video File: frame_1717432990.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 5.426064999999994
+
+Video File: frame_1717433012.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 3.2075660419999963
+
+Video File: frame_1717433037.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 0.0027738750000025902
+
+Video File: frame_1717433045.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 10.005139540999949
+
+Video File: frame_1717433267.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 10.006574583999964
+
+Video File: frame_1717433299.avi
+Recording Duration: 9.90 seconds
+Total Frames: 297
+Frames per Second: 30.00
+File Size: 0.07 MB
+Bitrate: 55.89 kbps
+Actual Recording Duration: 10.051617041999975
+
+Video File: frame_1717433358.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 10.032352166999999
+
+Video File: frame_1717433382.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 10.035508457999981
+
+Video File: frame_1717433402.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 10.001802832999942
+
+Video File: frame_1717433428.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 5.028171832999988
+
+Video File: frame_1717433443.avi
+Recording Duration: 5.00 seconds
+Total Frames: 150
+Frames per Second: 30.00
+File Size: 0.04 MB
+Bitrate: 60.62 kbps
+Actual Recording Duration: 5.042200374999993
+
+Video File: frame_1717433510.avi
+Recording Duration: 4.97 seconds
+Total Frames: 149
+Frames per Second: 30.00
+File Size: 0.03 MB
+Bitrate: 59.08 kbps
+Actual Recording Duration: 5.051655500000038
+
+Video File: frame_1717433518.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 5.0335569580000765
+
+Video File: frame_1717433577.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 5.029669208999962
+
+Video File: frame_1717433601.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 5.022394125000005
+
+Video File: frame_1717433616.avi
+Recording Duration: 4.97 seconds
+Total Frames: 149
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 22.23 kbps
+Actual Recording Duration: 5.038828459000001
+
+Video File: frame_1717433645.avi
+Recording Duration: 5.00 seconds
+Total Frames: 150
+Frames per Second: 30.00
+File Size: 0.02 MB
+Bitrate: 26.02 kbps
+Actual Recording Duration: 5.053546791000031
+
+Video File: frame_1717433690.avi
+Recording Duration: 5.00 seconds
+Total Frames: 150
+Frames per Second: 30.00
+File Size: 0.02 MB
+Bitrate: 26.02 kbps
+Actual Recording Duration: 5.061212374999968
+
+Video File: frame_1717433790.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 5.023723041999801
+
+Video File: frame_1717433808.avi
+Recording Duration: 4.97 seconds
+Total Frames: 149
+Frames per Second: 30.00
+File Size: 0.02 MB
+Bitrate: 26.08 kbps
+Actual Recording Duration: 5.050989916999924
+
+Video File: frame_1717433835.avi
+Recording Duration: 5.00 seconds
+Total Frames: 150
+Frames per Second: 30.00
+File Size: 0.34 MB
+Bitrate: 562.04 kbps
+Actual Recording Duration: 5.092354167000167
+
+Video File: frame_1717433963.avi
+Recording Duration: 5.00 seconds
+Total Frames: 150
+Frames per Second: 30.00
+File Size: 0.02 MB
+Bitrate: 26.02 kbps
+Actual Recording Duration: 5.053455708999991
+
+Video File: frame_1717433973.avi
+Recording Duration: 5.03 seconds
+Total Frames: 151
+Frames per Second: 30.00
+File Size: 0.17 MB
+Bitrate: 279.67 kbps
+Actual Recording Duration: 5.111505915999942
+
+Video File: frame_1717434102.avi
+Recording Duration: 4.97 seconds
+Total Frames: 149
+Frames per Second: 30.00
+File Size: 0.15 MB
+Bitrate: 255.34 kbps
+Actual Recording Duration: 5.092775958000175
+
+Video File: frame_1717434111.avi
+Recording Duration: 4.97 seconds
+Total Frames: 149
+Frames per Second: 30.00
+File Size: 0.02 MB
+Bitrate: 26.08 kbps
+Actual Recording Duration: 5.051312000000053
+
+Video File: frame_1717434155.avi
+Recording Duration: 5.00 seconds
+Total Frames: 150
+Frames per Second: 30.00
+File Size: 0.93 MB
+Bitrate: 1553.10 kbps
+Actual Recording Duration: 5.2260676250000415
+
+Video File: frame_1717434207.avi
+Recording Duration: 21.33 seconds
+Total Frames: 640
+Frames per Second: 30.00
+File Size: 4.75 MB
+Bitrate: 1868.53 kbps
+Actual Recording Duration: 21.721187833000158
+
+Video File: frame_1717434241.avi
+Recording Duration: 10.47 seconds
+Total Frames: 314
+Frames per Second: 30.00
+File Size: 1.79 MB
+Bitrate: 1431.54 kbps
+Actual Recording Duration: 10.70417554100004
+
+Video File: frame_1717434280.avi
+Recording Duration: 14.57 seconds
+Total Frames: 437
+Frames per Second: 30.00
+File Size: 2.56 MB
+Bitrate: 1472.45 kbps
+Actual Recording Duration: 14.783950790999825
+
+Video File: frame_1717434311.avi
+Recording Duration: 5.03 seconds
+Total Frames: 151
+Frames per Second: 30.00
+File Size: 0.87 MB
+Bitrate: 1442.87 kbps
+Actual Recording Duration: 5.301929333999851
+
+Video File: frame_1717434321.avi
+Recording Duration: 2.90 seconds
+Total Frames: 87
+Frames per Second: 30.00
+File Size: 0.60 MB
+Bitrate: 1721.15 kbps
+Actual Recording Duration: 3.151198708000038
+
+Video File: frame_1717434347.avi
+Recording Duration: 4.37 seconds
+Total Frames: 131
+Frames per Second: 30.00
+File Size: 0.84 MB
+Bitrate: 1605.74 kbps
+Actual Recording Duration: 4.54284937500006
+
+Video File: frame_1717435316.avi
+Recording Duration: 80.53 seconds
+Total Frames: 2416
+Frames per Second: 30.00
+File Size: 9.30 MB
+Bitrate: 968.53 kbps
+Actual Recording Duration: 81.29132341700006
+
+Video File: frame_1717435477.avi
+Recording Duration: 72.87 seconds
+Total Frames: 2186
+Frames per Second: 30.00
+File Size: 8.54 MB
+Bitrate: 983.55 kbps
+Actual Recording Duration: 73.97384654100006
+
+Video File: frame_1717435560.avi
+Recording Duration: 28.73 seconds
+Total Frames: 862
+Frames per Second: 30.00
+File Size: 4.98 MB
+Bitrate: 1454.38 kbps
+Actual Recording Duration: 28.59106891700003
+
+Video File: frame_1717435611.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 19.903108041999985
+
+Video File: frame_1717435641.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 19.18776600000001
+
+Video File: frame_1717435669.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 15.30401537500029
+
+Video File: frame_1717435852.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 0.0031585420001647435
+
+Video File: frame_1717435867.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 0.003577374999622407
+
+Video File: frame_1717436277.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 19.619740915999955
+
+Video File: frame_1717436303.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 10.557328249999955
+
+Video File: frame_1717436342.avi
+Recording Duration: 71.57 seconds
+Total Frames: 2147
+Frames per Second: 30.00
+File Size: 7.11 MB
+Bitrate: 832.92 kbps
+Actual Recording Duration: 71.31238341700009
+
+Video File: frame_1717437870.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 0.0051694169997063
+
+Video File: frame_1717437938.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 0.006137708999631286
+
+Video File: frame_1717437987.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 7.58723770800043
+
+Video File: frame_1717438000.avi
+Recording Duration: 3.73 seconds
+Total Frames: 112
+Frames per Second: 30.00
+File Size: 0.46 MB
+Bitrate: 1037.95 kbps
+Actual Recording Duration: 3.795877124999606
+
+Video File: frame_1717439566.avi
+Recording Duration: 30.43 seconds
+Total Frames: 913
+Frames per Second: 30.00
+File Size: 7.85 MB
+Bitrate: 2164.55 kbps
+Actual Recording Duration: 30.50471516699963
+
+Video File: frame_1717440364.avi
+Recording Duration: 27.87 seconds
+Total Frames: 836
+Frames per Second: 30.00
+File Size: 3.27 MB
+Bitrate: 983.48 kbps
+Actual Recording Duration: 27.557912708000003
+
+Video File: frame_1717440511.avi
+Recording Duration: 50.47 seconds
+Total Frames: 1514
+Frames per Second: 30.00
+File Size: 15.01 MB
+Bitrate: 2495.22 kbps
+Actual Recording Duration: 50.778671250000116
+
+Video File: frame_1717440876.avi
+Recording Duration: 0.00 seconds
+Total Frames: 0
+Frames per Second: 30.00
+File Size: 0.01 MB
+Bitrate: 0.00 kbps
+Actual Recording Duration: 0.0035079160006716847
+
+Video File: frame_1717440888.avi
+Recording Duration: 2.00 seconds
+Total Frames: 60
+Frames per Second: 30.00
+File Size: 0.22 MB
+Bitrate: 907.56 kbps
+Actual Recording Duration: 2.1151368749997346
+
+Video File: frame_1717441008.avi
+Recording Duration: 2.27 seconds
+Total Frames: 68
+Frames per Second: 30.00
+File Size: 0.22 MB
+Bitrate: 804.85 kbps
+Actual Recording Duration: 2.4633155000010447
+
+Video File: frame_1717441039.avi
+Recording Duration: 2.17 seconds
+Total Frames: 65
+Frames per Second: 30.00
+File Size: 0.28 MB
+Bitrate: 1073.63 kbps
+Actual Recording Duration: 2.436646957999983
+
+Video File: frame_1717442173.avi
+Recording Duration: 4.60 seconds
+Total Frames: 138
+Frames per Second: 30.00
+File Size: 0.16 MB
+Bitrate: 295.59 kbps
+Actual Recording Duration: 4.656473625000217
+
+Video File: frame_1717442295.avi
+Recording Duration: 24.67 seconds
+Total Frames: 740
+Frames per Second: 30.00
+File Size: 3.80 MB
+Bitrate: 1293.18 kbps
+Actual Recording Duration: 25.05376058299953
+
+Video File: frame_1717442450.avi
+Recording Duration: 48.27 seconds
+Total Frames: 1448
+Frames per Second: 30.00
+File Size: 6.60 MB
+Bitrate: 1146.64 kbps
+Actual Recording Duration: 48.77594962500007
+
+Video File: frame_1717442624.avi
+Recording Duration: 31.40 seconds
+Total Frames: 942
+Frames per Second: 30.00
+File Size: 5.87 MB
+Bitrate: 1567.12 kbps
+Actual Recording Duration: 31.710727792000398
+
+Video File: frame_1717442755.avi
+Recording Duration: 42.97 seconds
+Total Frames: 1289
+Frames per Second: 30.00
+File Size: 6.58 MB
+Bitrate: 1285.23 kbps
+Actual Recording Duration: 43.53524295900024
+
+Video File: frame_1717443156.avi
+Recording Duration: 17.97 seconds
+Total Frames: 539
+Frames per Second: 30.00
+File Size: 2.47 MB
+Bitrate: 1154.80 kbps
+Actual Recording Duration: 18.343929582999408
+
+Video File: frame_1717448063.avi
+Recording Duration: 14.07 seconds
+Total Frames: 422
+Frames per Second: 30.00
+File Size: 1.86 MB
+Bitrate: 1110.02 kbps
+Actual Recording Duration: 14.271854041999859
+
+Video File: frame_1717448467.avi
+Recording Duration: 25.33 seconds
+Total Frames: 760
+Frames per Second: 30.00
+File Size: 2.13 MB
+Bitrate: 704.10 kbps
+Actual Recording Duration: 25.597910917000036
+
