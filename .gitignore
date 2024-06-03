@@ -1,0 +1,6 @@
+*.avi
+*.mp4
+.venv
+.idea
+*__pycache__
+*.txt
